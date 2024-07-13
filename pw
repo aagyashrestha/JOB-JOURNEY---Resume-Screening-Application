@@ -1,0 +1,3 @@
+client = MongoClient("mongodb+srv://aagyashrestha12:pass@cluster0.jnp1qjg.mongodb.net/")
+db = client["authentication"]
+jobs_collection = db["jobs"]
