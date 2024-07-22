@@ -2,7 +2,7 @@
 Resume Screening App With Python and Machine Learning 
 
 
-link- [[https://job--journey.streamlit.app/](https://job-journey.streamlit.app/)](https://job-journey.streamlit.app)
+link-https://job-journey.streamlit.app
 
 
 Overview:
